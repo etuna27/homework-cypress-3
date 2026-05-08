@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://automationexercise.com",
+  "name": "etuna",
+  "email": "etunanatroshvili777@gmail.com",
+  "password": "Password123!",
+  "days": "27",
+  "months": "December",
+  "years": "1997",
+  "firstName": "etuna",
+  "lastName": "natroshvili",
+  "address": "mindeli 11",
+  "country": "United States",
+  "state": "Tbilisi",
+  "city": "Georgia",
+  "zipcode": "0186",
+  "mobile": "555123456"
+}
